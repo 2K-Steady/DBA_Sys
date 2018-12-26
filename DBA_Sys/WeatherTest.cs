@@ -106,14 +106,14 @@ namespace DBA_Sys
             System.Windows.Forms.SendKeys.Send("Admin VisibleInvulnerablilityEffect 0");
             delayTime.Delay(0,0,2);
             System.Windows.Forms.SendKeys.Send("{Enter}");
-            delayTime.Delay(0,0,2);
+            delayTime.Delay(0,0,4);
             System.Windows.Forms.SendKeys.Send("^Q");
             delayTime.Delay(0,0,2);
             Keyboard.HoldKey(0x20, 2000);
 
-            delayTime.Delay(0,0,10);
+            delayTime.Delay(0,35,0);
             ScreenShot.Copy(@"D:\DBA_SaveData\" + testDate + "\\weatherTest.png");
-            statlog.statusLog("10초 경과했습니다. 테스트 종료 시퀀스 진입");
+            statlog.statusLog("35분 경과했습니다. 테스트 종료 시퀀스 진입");
             KillProcess();
             
         }
