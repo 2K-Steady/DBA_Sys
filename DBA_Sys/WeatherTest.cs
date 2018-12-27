@@ -111,8 +111,15 @@ namespace DBA_Sys
             delayTime.Delay(0,0,2);
             Keyboard.HoldKey(0x20, 2000);
 
-            delayTime.Delay(0,35,0);
-            ScreenShot.Copy(@"D:\DBA_SaveData\" + testDate + "\\weatherTest.png");
+            delayTime.Delay(0, 10, 0);
+            ScreenShot.Copy(@"D:\DBA_SaveData\" + testDate + "\\weatherTest_1.png");
+            delayTime.Delay(0, 10, 0);
+            ScreenShot.Copy(@"D:\DBA_SaveData\" + testDate + "\\weatherTest_2.png");
+            delayTime.Delay(0, 10, 0);
+            ScreenShot.Copy(@"D:\DBA_SaveData\" + testDate + "\\weatherTest_3.png");
+            delayTime.Delay(0, 5, 0);
+            ScreenShot.Copy(@"D:\DBA_SaveData\" + testDate + "\\weatherTest_End.png");
+
             statlog.statusLog("35분 경과했습니다. 테스트 종료 시퀀스 진입");
             KillProcess();
             

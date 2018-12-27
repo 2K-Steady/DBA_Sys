@@ -61,21 +61,24 @@ namespace DBA_Sys
 
         private void TestButton_1_Click(object sender, EventArgs e)
         {
-            toolStripStatusLabel1.Text = "이건 왜 안바뀜?";
+            //toolStripStatusLabel1.Text = "이건 왜 안바뀜?";
 
-            if (TestDate != null && !string.IsNullOrWhiteSpace(TestDate.Text))
-            {
-                FolderBrowserDialog dialog = new FolderBrowserDialog();
-                dialog.ShowDialog();
-                string selected = dialog.SelectedPath;
-                CreateFolder(selected + @"\\" + TestDate.Text);
-            }
-            else
-            {
-                MessageBox.Show("테스트 날짜를 입력해주세요");
+            //if (TestDate != null && !string.IsNullOrWhiteSpace(TestDate.Text))
+            //{
+            //    FolderBrowserDialog dialog = new FolderBrowserDialog();
+            //    dialog.ShowDialog();
+            //    string selected = dialog.SelectedPath;
+            //    CreateFolder(selected + @"\\" + TestDate.Text);
+            //}
+            //else
+            //{
+            //    MessageBox.Show("테스트 날짜를 입력해주세요");
 
-                return;
-            }
+            //    return;
+            //}
+
+            FirewallTest.Inbound("DBA_Rule Name", @"C:\TestBuild\2018.12.27.1\BroLauncher.exe");
+        
         }
 
         private void SaveScreenShotButton_Click(object sender, EventArgs e) 
