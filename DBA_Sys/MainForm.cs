@@ -76,8 +76,16 @@ namespace DBA_Sys
 
             //    return;
             //}
-
-            FirewallTest.Inbound("DBA_Rule Name", @"C:\TestBuild\2018.12.27.1\BroLauncher.exe");
+            if (TestDate != null && !string.IsNullOrWhiteSpace(TestDate.Text))
+            {
+                FirewallTest.Inbound("TslDBA", TestDate.Text);
+            }
+            else
+            {
+                MessageBox.Show("테스트 날짜를 입력해주세요");
+                return;
+            }
+            
         
         }
 

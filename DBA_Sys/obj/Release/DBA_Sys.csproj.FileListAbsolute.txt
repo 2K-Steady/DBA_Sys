@@ -1,0 +1,10 @@
+D:\pubg\DBA_Sys\DBA_Sys\bin\Release\DBA_Sys.exe.config
+D:\pubg\DBA_Sys\DBA_Sys\obj\Release\Interop.NetFwTypeLib.dll
+D:\pubg\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.csproj.ResolveComReference.cache
+D:\pubg\DBA_Sys\DBA_Sys\bin\Release\DBA_Sys.exe
+D:\pubg\DBA_Sys\DBA_Sys\bin\Release\DBA_Sys.pdb
+D:\pubg\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.MainForm.resources
+D:\pubg\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.Properties.Resources.resources
+D:\pubg\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.csproj.GenerateResource.Cache
+D:\pubg\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.exe
+D:\pubg\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.pdb

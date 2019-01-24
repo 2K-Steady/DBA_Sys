@@ -39,3 +39,4 @@ D:\Git\DBA_Sys\DBA_Sys\obj\Debug\Interop.NetFwTypeLib.dll
 D:\Git\DBA_Sys\DBA_Sys\obj\Debug\DBA_Sys.MainForm.resources
 D:\Git\DBA_Sys\DBA_Sys\obj\Debug\DBA_Sys.Properties.Resources.resources
 D:\Git\DBA_Sys\DBA_Sys\obj\Debug\DBA_Sys.csproj.GenerateResource.Cache
+D:\pubg\DBA_Sys\DBA_Sys\obj\Debug\Interop.NetFwTypeLib.dll
