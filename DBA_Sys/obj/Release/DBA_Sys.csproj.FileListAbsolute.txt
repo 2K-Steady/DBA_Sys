@@ -8,3 +8,14 @@ D:\pubg\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.Properties.Resources.resources
 D:\pubg\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.csproj.GenerateResource.Cache
 D:\pubg\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.exe
 D:\pubg\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.pdb
+D:\Git\DBA_Sys\DBA_Sys\bin\Release\DBA_Sys.exe.config
+D:\Git\DBA_Sys\DBA_Sys\obj\Release\Interop.NetFwTypeLib.dll
+D:\Git\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.csproj.ResolveComReference.cache
+D:\Git\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.exe
+D:\Git\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.pdb
+D:\Git\DBA_Sys\DBA_Sys\bin\Release\DBA_Sys.exe
+D:\Git\DBA_Sys\DBA_Sys\bin\Release\DBA_Sys.pdb
+D:\Git\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.csprojResolveAssemblyReference.cache
+D:\Git\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.MainForm.resources
+D:\Git\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.Properties.Resources.resources
+D:\Git\DBA_Sys\DBA_Sys\obj\Release\DBA_Sys.csproj.GenerateResource.Cache
